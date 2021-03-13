@@ -1,2 +1,2 @@
-# UnibgCourse-CloudMobileTechologies
+# Unibg Course | CloudMobileTechologies
 Lessons, assignments and exercises of the Cloud and Mobile Techologies @Unibg
