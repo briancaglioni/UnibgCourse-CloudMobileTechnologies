@@ -1,0 +1,48 @@
+Da Messaggio_0.html
+aggiungere una form di nome "myform"
+che contiene un campo di tipo text di nome "testo"
+Quando si preme il pulsante di submit, il testo
+nel campo "testo" viene formattato e inserito nel
+div con id "area_risultato"
+
+------------------------
+Parendo da Calcolatrice_0.html
+prepare Calcolatrice_1.html
+completare il caso scrivendo la funzione 
+Calcola(operazione)
+dove il parametro formale operazione è una
+stringa con il simbolo dell'operazione da svolgere
+In caso di divisione, si gestisca la divisione per zero
+se i campi sono vuoti, si assuma il valore 0.
+Si produca l'output come
+  2 + 3 = 5
+
+------------------------
+
+Da Calcolatrice_1.html
+derivare Calcolatrice_2.html
+creare 4 variabili globali di nome
+fsomma, fdifferenza, fprodotto, fdivisione
+alle quali viene assegnata una funzione che riceve due parametri v1 e v2 e restistuisce il testp
+con l'esito dell'operazione
+Modificare la funzione calcola, in modo che
+il parametro operazione sia la funzione da 
+chiamare per fare la somma
+
+--------------------
+Sfida:
+da Calcolatrice_2.html
+derivare Calcolatrice_3.html
+- Predisporre una classe/costruttore chiamato
+MioElenco, che riceve come parametro formale
+id_result , l'id del'area nella quale scrivere.
+Internamente, definire un array Elenco e i seguenti
+metodi:
+- addToElenco( elemento)
+aggiunge un elemento all'elenco
+- showElenco()
+mostra l'elenco nell'area id_result
+- svuota()
+che svuota le'elnco e l'area risultato
+
+
